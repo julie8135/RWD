@@ -30,7 +30,7 @@ body {
 }
 
  ul {
-    background-color: darkgray;
+    background-color: #ffad60;
     list-style-type: none;
     font-size: 300%;
    
@@ -56,7 +56,7 @@ ul li a {
 #main {
     width: 80%;
     height: 100%;
-    background-color: blueviolet;
+    background-color: #d9534f;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -189,7 +189,7 @@ ul li a {
         }
 
         ul {
-            background-color: darkgray;
+            background-color: #ffad60;
             list-style-type: none;
             font-size: 200%;
             font-family: 標楷體;
@@ -213,7 +213,7 @@ ul li a {
         #main {
             width: 100%;
             height: 100%;
-            background-color: blueviolet;
+            background-color: #d9534f;
         }
 
         #photo1 {
@@ -300,7 +300,7 @@ ul li a {
         #main {
             width: 100%;
             height: 90vh;
-            background-color: blueviolet;
+            background-color: #d9534f;
         }
 
         #photo {
